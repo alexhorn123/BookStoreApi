@@ -7,9 +7,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.Configure<MissyMenuDatabaseSettings>(
     builder.Configuration.GetSection("MissyMenuDatabase"));
 
+     //Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
+
+
     builder.Services.AddSingleton<RecipesService>();
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+.AddJsonOptions(options =>
+               options.JsonSerializerOptions.PropertyNamingPolicy = null);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
