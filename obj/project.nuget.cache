@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMlVvg58J0jxuZyuBVYdsEIPkWB/EpmThzhyeHWAMJZgWCkpo+npy4u1kP0IVX0Rq9ljx8eIOKOOlIIznCn0FA==",
+  "dgSpecHash": "CCS6e/r8olbUtNekmawMnyMJ/Ty5QKstaP3sA+828vg7zicHQymvNjPt5q121g2FGXmavsUPt5YCXQyXO/J/+g==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio Projects\\BookStoreApi\\BookStoreApi.csproj",
+  "projectFilePath": "C:\\Visual Studio Projects\\MissyMenuApi\\MissyMenuApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahorn002\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\ahorn002\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

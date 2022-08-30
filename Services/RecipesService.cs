@@ -1,8 +1,8 @@
-using BookStoreApi.Models;
+using MissyMenuApi.Models;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 
-namespace BookStoreApi.Services;
+namespace MissyMenuApi.Services;
 
 public class RecipesService
 {

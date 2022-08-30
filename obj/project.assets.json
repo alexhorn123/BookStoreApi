@@ -826,11 +826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio Projects\\BookStoreApi\\BookStoreApi.csproj",
-      "projectName": "BookStoreApi",
-      "projectPath": "C:\\Visual Studio Projects\\BookStoreApi\\BookStoreApi.csproj",
+      "projectUniqueName": "C:\\Visual Studio Projects\\MissyMenuApi\\MissyMenuApi.csproj",
+      "projectName": "MissyMenuApi",
+      "projectPath": "C:\\Visual Studio Projects\\MissyMenuApi\\MissyMenuApi.csproj",
       "packagesPath": "C:\\Users\\ahorn002\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio Projects\\BookStoreApi\\obj\\",
+      "outputPath": "C:\\Visual Studio Projects\\MissyMenuApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahorn002\\AppData\\Roaming\\NuGet\\NuGet.Config",

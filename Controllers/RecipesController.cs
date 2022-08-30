@@ -1,8 +1,8 @@
-using BookStoreApi.Models;
-using BookStoreApi.Services;
+using MissyMenuApi.Models;
+using MissyMenuApi.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BookStoreApi.Controllers;
+namespace MissyMenuApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

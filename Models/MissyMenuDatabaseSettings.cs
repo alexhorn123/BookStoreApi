@@ -1,4 +1,4 @@
-namespace BookStoreApi.Models;
+namespace MissyMenuApi.Models;
 
 public class MissyMenuDatabaseSettings
 {

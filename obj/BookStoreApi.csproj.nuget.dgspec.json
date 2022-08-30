@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio Projects\\BookStoreApi\\BookStoreApi.csproj": {}
+    "C:\\Visual Studio Projects\\MissyMenuApi\\BookStoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio Projects\\BookStoreApi\\BookStoreApi.csproj": {
+    "C:\\Visual Studio Projects\\MissyMenuApi\\BookStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Projects\\BookStoreApi\\BookStoreApi.csproj",
+        "projectUniqueName": "C:\\Visual Studio Projects\\MissyMenuApi\\BookStoreApi.csproj",
         "projectName": "BookStoreApi",
-        "projectPath": "C:\\Visual Studio Projects\\BookStoreApi\\BookStoreApi.csproj",
+        "projectPath": "C:\\Visual Studio Projects\\MissyMenuApi\\BookStoreApi.csproj",
         "packagesPath": "C:\\Users\\ahorn002\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Projects\\BookStoreApi\\obj\\",
+        "outputPath": "C:\\Visual Studio Projects\\MissyMenuApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahorn002\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,5 @@
-using BookStoreApi.Models;
-using BookStoreApi.Services;
+using MissyMenuApi.Models;
+using MissyMenuApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +7,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.Configure<MissyMenuDatabaseSettings>(
     builder.Configuration.GetSection("MissyMenuDatabase"));
 
-     //Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
 
 
     builder.Services.AddSingleton<RecipesService>();
