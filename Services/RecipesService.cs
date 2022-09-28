@@ -17,8 +17,7 @@ public class RecipesService
         var mongoDatabase = mongoClient.GetDatabase(
             missyMenuDatabaseSettings.Value.DatabaseName);
 
-        _recipesCollection = mongoDatabase.GetCollection<Recipe>(
-            missyMenuDatabaseSettings.Value.RecipesCollectionName);
+        _recipesCollection = mongoDatabase.GetCollection<Recipe>("Recipes");
     }
 
     public async Task<List<Recipe>> GetAsync() =>

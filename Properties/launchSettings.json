@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "BookStoreApi": {
+    "MissyMenuApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

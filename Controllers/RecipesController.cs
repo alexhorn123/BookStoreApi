@@ -1,4 +1,3 @@
-using MissyMenuApi.Models;
 using MissyMenuApi.Services;
 using Microsoft.AspNetCore.Mvc;
 
