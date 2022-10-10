@@ -10,6 +10,7 @@ builder.Services.Configure<MissyMenuDatabaseSettings>(
 
 
     builder.Services.AddSingleton<RecipesService>();
+    builder.Services.AddSingleton<GlobalService>();
 
 builder.Services.AddControllers()
 .AddJsonOptions(options =>

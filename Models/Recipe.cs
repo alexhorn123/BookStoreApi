@@ -10,7 +10,8 @@
         public string Measurement { get; set; } = null!;
         public string Note { get; set; } = null!;
         public string Link { get; set; } = null!;
-    }
+        public string Market { get; set; } = null!;
+}
 
     public class Direction
     {

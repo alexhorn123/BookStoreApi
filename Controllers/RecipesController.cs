@@ -2,7 +2,7 @@ using MissyMenuApi.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MissyMenuApi.Controllers;
-
+//[ApiExplorerSettings(IgnoreApi = true)]
 [ApiController]
 [Route("api/[controller]")]
 public class RecipesController : ControllerBase
